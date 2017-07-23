@@ -1,1 +1,4 @@
 this is a new txt file added to see how git works 
+
+
+created new change in the text file 
